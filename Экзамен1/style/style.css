@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap'); 
+body{
+background: #F5F5F5;
+}
+header{
+width: 768px;
+margin: 0 auto;
+}
+.name{
+font-family: "Inter";
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 77px;
+letter-spacing: -0.02em;
+color: #000000;
+margin-bottom: 0px;
+}
+.universe{
+font-family: "Inter";
+font-style: normal;
+font-weight: normal;
+font-size: 21px;
+line-height: 36px;
+color: #000000;
+margin-top: 0px;
+}
+.input{
+display: flex;
+justify-content: space-between;
+}
+.search-form2{
+margin-left: 20px;
+}
+.search__name{
+font-family: "Inter";
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 28px;
+color: #818182;
+}
+.search-form__field{
+background: #FFFFFF;
+border: 1px solid #CED4DA;
+border-radius: 4px;
+width: 452px;
+padding: 9px 17px 9px 17px;
+}
+.select{
+background: #FFFFFF;
+color: #ABB5BE;
+border: 1px solid #CED4DA;
+border-radius: 4px;
+width: 216px;
+padding: 8px 15px 9px 15px;
+}
+hr{
+width: 768px; 
+background: #DEE2E6;
+}
+main{
+width: 768px;
+margin: 0 auto;
+}
+.card__section{
+display: flex;
+flex-direction: column;
+}
+.section{
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+}
+.name__section{
+font-family: "Inter";
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+color: #152536;
+}
+.data__section{
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+color: #152536;
+}
+
+
